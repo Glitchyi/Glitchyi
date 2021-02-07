@@ -2,16 +2,11 @@
     Hi there 👋
 </h3>
 
+
 <a href="https://twitter.com/advaithnarayan">
   <img align="right" width="75" height="75" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383265.svg?token=exp=1612705331~hmac=9a833f73f2c6767136929e910734f807" />
 </a>
-<a href="https://www.instagram.com/advaithnarayanan">
-  <img align="right" width="75" height="75" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1612705662~hmac=4aae012683d753faeca09c913da37c58" />
-</a>
 
-<a >
-  <img align="right" width="75" height="75" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383265.svg?token=exp=1612705331~hmac=9a833f73f2c6767136929e910734f807" />
-</a>
 
 [![Top Langs](
 https://github-readme-stats.vercel.app/api?username=Glichy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
