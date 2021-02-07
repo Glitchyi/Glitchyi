@@ -1,4 +1,12 @@
-# Hi there 👋
+<h3 align="center">
+    Hi there 👋
+</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glitchyi&show_icons=true&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">
+    ![Glitchyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glichy&show_icons=true&theme=algolia)
+</h3>
+
 
 - 🔭 I’m currently working on a [CBSE Project](https://github.com/Glitchyi/CBSE-Project)
 - 🌱 I’m currently learning Python, Dicord.js, MySQL
