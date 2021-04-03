@@ -4,7 +4,7 @@
 
 
 <a href="https://twitter.com/advaithnarayan">
-  <img align="right" width="75" height="75" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383265.svg?token=exp=1612705331~hmac=9a833f73f2c6767136929e910734f807" />
+  <img align="right" width="75" height="75" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383265.svg?token=exp=1612705331~hmac=9a833f73f2c6767136929e910734f807"/>
 </a>
 
 
