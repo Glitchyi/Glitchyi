@@ -15,7 +15,6 @@ https://github-readme-stats.vercel.app/api?username=Glichy&show_icons=true&bg_co
 
 <br> <br/>
 
-- 🔭 I’m currently working on a [CBSE Project](https://github.com/Glitchyi/CBSE-Project)
-- 🌱 I’m currently learning Python, Dicord.js, MySQL
+- 🌱 I’m currently learning Python, Dicord.js, MySQL, Kotlin, Javascript, C++.
 - 📫 How to reach me: via [Email](mailto:advaithnarayanan8@gmail.com)
 - ⚡ Fun fact: I also like maths.
