@@ -7,7 +7,7 @@
 
 
 [![Top Langs](
-https://github-readme-stats.vercel.app/api?username=Glichy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=Glichyi&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glitchyi&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
