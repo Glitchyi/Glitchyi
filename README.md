@@ -1,9 +1,9 @@
 # Hi there 👋
 
-
 ---
 
-<br> <br/>
+
+## Somthings about me
 
 
 [![Top Langs](
