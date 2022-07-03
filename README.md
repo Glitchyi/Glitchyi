@@ -22,4 +22,4 @@ https://github-readme-stats.vercel.app/api?username=Glitchyi&show_icons=true&bg_
 - ⚡ Fun fact: I also like maths.
 - Currently a Student at [Muthoot Institute of Technology & Science](https://mgmits.ac.in/)
 
-![(https://valid.x86.fr/xv24bv)](https://valid.x86.fr/cache/banner/xv24bv-6.png)
+[<img alt="alt_text" width="600px" src="https://valid.x86.fr/cache/banner/xv24bv-6.png" />](https://valid.x86.fr/xv24bv)
