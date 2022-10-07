@@ -11,7 +11,7 @@
 https://github-readme-stats.vercel.app/api?username=Glitchyi&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glitchy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glitchyi&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
 <br><br>
