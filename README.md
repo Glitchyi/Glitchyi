@@ -15,8 +15,11 @@ https://github-readme-stats.vercel.app/api?username=Glitchyi&show_icons=true&bg_
 </a>
 
 <br><br>
-- 🌱 I’m currently learning Frameworks like Angular and React.
-- 📫 How to reach me: via [Email](mailto:advaithnarayanan8@gmail.com)
+- 🌱 I’m currently Data Stuctures in Rust, Docker and Kubernetes
+- 📫 How to reach me:
+  - [Email](mailto:advaithnarayanan8@gmail.com)
+  - [Linkedin](https://www.linkedin.com/in/advaith-narayanan-a72152214/)
+  
 - [🐒⌨️](https://monkeytype.com/profile/lJ7tGgSHIDbs31TeDXlspwJ5WUj1)
 - 🖥️ Windows 11 | MacOS Catalina | Manjaro [Arch/Ubuntu WSL]
 - Currently a Student at [Muthoot Institute of Technology & Science](https://mgmits.ac.in/)
