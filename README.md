@@ -21,7 +21,9 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-📫 How to reach me:<br>
+---
+
+📫 Socials :<br>
 [Mail](mailto:advaithnarayanan8@gmail.com) | [Linkedin](https://www.linkedin.com/in/advaith-narayanan-a72152214/) | [Twitter](https://twitter.com/advaithnarayan)
 
 
