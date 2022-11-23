@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 July 2022 - To: 20 November 2022
+From: 02 July 2022 - To: 21 November 2022
 
-Total Time: 69 hrs 43 mins
+Total Time: 69 hrs 47 mins
 
-C                          15 hrs 28 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
-Rust                       13 hrs 50 mins  █████░░░░░░░░░░░░░░░░░░░░   19.86 %
-Python                     7 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Java                       7 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-HTML                       6 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+C                          15 hrs 28 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
+Rust                       13 hrs 54 mins  █████░░░░░░░░░░░░░░░░░░░░   19.94 %
+Python                     7 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+Java                       7 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+HTML                       6 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
 CSS                        5 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
 ```
 
