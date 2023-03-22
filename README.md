@@ -22,16 +22,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 July 2022 - To: 19 March 2023
+From: 02 July 2022 - To: 20 March 2023
 
-Total Time: 156 hrs 5 mins
+Total Time: 156 hrs 42 mins
 
-Rust                       26 hrs 15 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
-C                          25 hrs 18 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
-Java                       18 hrs 51 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
-Vue.js                     17 hrs 29 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
-JavaScript                 13 hrs 36 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-HTML                       11 hrs 37 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+Rust                       26 hrs 15 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
+C                          25 hrs 18 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
+Java                       18 hrs 51 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+Vue.js                     17 hrs 29 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+JavaScript                 14 hrs 2 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+HTML                       11 hrs 38 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
 ```
 
 <!--END_SECTION:waka-->
