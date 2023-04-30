@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently Rusting mentaly and physically
+- 🌱 I’m currently Rusting mentaly and physically need to GO out somewhere :)
 - 🐋 Docking some containers
 - 😶‍🌫️ Longest sleep session in a month 6hrs.
 - 🖥️ Windows 11 | MacOS Catalina | Arch Linux 🦩 (Home Lab) | Arch WSL |
@@ -39,7 +39,7 @@ Python                     17 hrs 24 mins  ██▒░░░░░░░░░�
 ---
 
 📫 Socials :<br>
-[Mail](mailto:advaithnarayanan8@gmail.com) | [Linkedin](https://www.linkedin.com/in/advaith-narayanan-a72152214/) | [Twitter](https://twitter.com/advaithnarayan)
+[Mail](mailto:advaithnarayanan8@gmail.com) | [Linkedin](https://www.linkedin.com/in/advaith-narayanan-a72152214/) | [Twitter](https://twitter.com/advaithnarayan) | [Facebook](https://screenmessage.com/qinq)
 
 ## Somewhere here
 
