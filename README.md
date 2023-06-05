@@ -22,15 +22,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2022 - To: 02 June 2023
+From: 02 July 2022 - To: 03 June 2023
 
-Total Time: 201 hrs 25 mins
+Total Time: 205 hrs 25 mins
 
-Python                     27 hrs 1 min    ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
-Rust                       26 hrs 41 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
-C                          25 hrs 18 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
-JavaScript                 22 hrs 20 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
-Java                       19 hrs 19 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+Python                     27 hrs 1 min    ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
+Rust                       26 hrs 41 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+C                          25 hrs 18 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
+JavaScript                 22 hrs 36 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+Java                       19 hrs 19 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
 ```
 
 <!--END_SECTION:waka-->
