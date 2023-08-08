@@ -4,14 +4,14 @@
 ## [glitchy.systems](https://glitchy.systems)
 ---
 
-## Somthings about me
+## Somethings about me
 
 
 
-- 🌱 I’m currently Rusting mentaly and physically need to GO out somewhere :)
+- 🌱 I’m currently Rusting mentally and physically and need to GO out somewhere :)
 - 🐋 Docking some containers
 - 😶‍🌫️ Longest sleep session in a month 6hrs.
-- 🖥️ Windows 11 | MacOS Catalina | Arch Linux 🦩 (Home Lab) | Arch WSL |
+- 🖥️ Windows 11 | MacOS Catalina | Arch Linux 🦩 (Home Lab & WSL) |
 - ✏️ Maybe a few articles [here](https://medium.com/@advaithnarayanan8) or [there](https://medium.com/@advaithnarayanan8)
 - 📑 A Student at [Muthoot Institute of Technology & Science](https://mgmits.ac.in/)
 
