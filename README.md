@@ -11,7 +11,7 @@
 - 🌱 I’m currently Rusting mentally and physically and need to GO out somewhere :)
 - 🐋 Docking some containers
 - 😶‍🌫️ Longest sleep session in a month 6hrs.
-- 🖥️ Windows 11 | MacOS Catalina | Arch Linux 🦩 (Home Lab & WSL) |
+- 🖥️ Windows 11 | MacOS Catalina | Arch Linux 🦩 (Home Lab & WSL) | PopOS! :)
 - ✏️ Maybe a few articles [here](https://medium.com/@advaithnarayanan8) or [there](https://medium.com/@advaithnarayanan8)
 - 📑 A Student at [Muthoot Institute of Technology & Science](https://mgmits.ac.in/)
 
