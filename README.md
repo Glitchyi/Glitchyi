@@ -22,13 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2022 - To: 06 May 2024
+From: 02 July 2022 - To: 07 May 2024
 
-Total Time: 468 hrs 5 mins
+Total Time: 468 hrs 9 mins
 
 Python                     71 hrs 5 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
 JavaScript                 67 hrs 57 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
-Rust                       54 hrs 14 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+Rust                       54 hrs 18 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
 Vue.js                     51 hrs 5 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
 HTML                       45 hrs 12 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
 C                          34 hrs 35 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
