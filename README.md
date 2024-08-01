@@ -4,10 +4,6 @@
 ## [glitchy.systems](https://glitchy.systems)
 ---
 
-## Somethings about me
-
-
-
 - 🌱 I’m currently RUSTing mentally and physically and need to GO out somewhere :)
 - 🐋 Docking some containers
 - 😶‍🌫️ Longest sleep session in a month 8hrs.
