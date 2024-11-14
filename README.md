@@ -18,20 +18,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2022 - To: 11 November 2024
+From: 02 July 2022 - To: 12 November 2024
 
-Total Time: 576 hrs 3 mins
+Total Time: 576 hrs 24 mins
 
-Python                     89 hrs 24 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
-JavaScript                 83 hrs 6 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
-Rust                       66 hrs 22 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
-HTML                       53 hrs 23 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-Vue.js                     52 hrs 23 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
-Markdown                   48 hrs 36 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Python                     89 hrs 24 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
+JavaScript                 83 hrs 6 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
+Rust                       66 hrs 22 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
+HTML                       53 hrs 23 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+Vue.js                     52 hrs 23 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+Markdown                   48 hrs 57 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
 C                          38 hrs 12 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
 CSS                        24 hrs 15 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
 Java                       19 hrs 19 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-TypeScript                 16 hrs 47 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+TypeScript                 16 hrs 47 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 ```
 
 <!--END_SECTION:waka-->
