@@ -18,16 +18,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2022 - To: 19 April 2025
+From: 02 July 2022 - To: 20 April 2025
 
-Total Time: 729 hrs 35 mins
+Total Time: 729 hrs 38 mins
 
 Python                     113 hrs 52 mins ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
 JavaScript                 100 hrs 23 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
 Vue.js                     75 hrs 22 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-Rust                       68 hrs 19 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-Markdown                   62 hrs 30 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-HTML                       59 hrs 12 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Rust                       68 hrs 19 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+Markdown                   62 hrs 33 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+HTML                       59 hrs 12 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
 C                          38 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 Go                         34 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
 CSS                        25 hrs 20 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
