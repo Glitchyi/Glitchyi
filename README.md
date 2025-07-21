@@ -82,6 +82,6 @@ JSON                               20 hrs 44 mins  ▓░░░░░░░░�
 
 
 --- 
-- [<img alt="alt_text" width="500px" src="https://valid.x86.fr/cache/banner/xv24bv-6.png" />](https://valid.x86.fr/xv24bv)
+[<img alt="alt_text" width="500px" src="https://valid.x86.fr/cache/banner/xv24bv-6.png" />](https://valid.x86.fr/xv24bv)
 
 
