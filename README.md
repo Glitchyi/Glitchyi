@@ -7,9 +7,10 @@
 - 🌱 I’m currently RUSTing mentally and physically and need to GO out somewhere :)
 - 🐋 Docking some containers
 - 😶‍🌫️ Longest sleep session in a month 8hrs.
-- 🖥️ Windows 11 | MacOS Catalina | Raspbian🥧 (Home Lab) | Debian :)
+- 🖥️ Windows 11 | MacOS Sequoia | Raspbian🥧 (Home Lab) | Nix :)
 - ✏️ Maybe a few articles [here](https://medium.com/@advaithnarayanan8) or [there](https://medium.com/@advaithnarayanan8)
-- 📑 A Student at [Muthoot Institute of Technology & Science](https://mgmits.ac.in/)
+- 📑 Studied at [Muthoot Institute of Technology & Science](https://mgmits.ac.in/)
+- 🥼 Working at [IBM](https://ibm.com) as a Software Developer
 
 
 
@@ -39,7 +40,7 @@ JSON                               20 hrs 44 mins  ▓░░░░░░░░�
 ---
 
 📫 Socials :<br>
-[Mail](mailto:advaith@glitchy.systems) | [Linkedin](https://www.linkedin.com/in/advaith-narayanan-a72152214/) | [Twitter](https://twitter.com/advaithnarayan) | [Facebook](https://screenmessage.com/qinq)
+[Mail](mailto:advaith@glitchy.systems) | [Linkedin](https://www.linkedin.com/in/glitchy/) | [Twitter](https://twitter.com/advaithnarayan) | [Facebook](https://screenmessage.com/qinq)
 
 ## Somewhere here
 
